@@ -14,8 +14,8 @@ cd atividade-docker/
 ## Mysql
 <pre>
 host: localhost:3306
-db: teste
 user: root
-pass: teste
+password: teste
+db: teste
 </pre>
 
